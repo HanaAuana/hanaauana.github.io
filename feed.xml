@@ -11,8 +11,8 @@
   </author>
   <entry>
     <title>Hello World</title>
-    <link rel="alternate" href="http://blog.url.com/2015/03/21/hello-world.html"/>
-    <id>http://blog.url.com/2015/03/21/hello-world.html</id>
+    <link rel="alternate" href="http://blog.url.com/2015/03/21/hello-world/"/>
+    <id>http://blog.url.com/2015/03/21/hello-world/</id>
     <published>2015-03-21T22:13:00+00:00</published>
     <updated>2015-03-21T22:13:27+00:00</updated>
     <author>
@@ -23,8 +23,8 @@
   </entry>
   <entry>
     <title>Example Article</title>
-    <link rel="alternate" href="http://blog.url.com/2012/01/01/example-article.html"/>
-    <id>http://blog.url.com/2012/01/01/example-article.html</id>
+    <link rel="alternate" href="http://blog.url.com/2012/01/01/example-article/"/>
+    <id>http://blog.url.com/2012/01/01/example-article/</id>
     <published>2012-01-01T00:00:00+00:00</published>
     <updated>2015-03-21T22:11:49+00:00</updated>
     <author>
